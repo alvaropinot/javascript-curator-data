@@ -1,0 +1,17 @@
+{
+  "resources": [
+    {
+      "name": "contents",
+      "path": "data/contents.json",
+      "format": "json",
+      "mediatype": "application/json"
+    }
+  ],
+  "name": "javascript-curator-data",
+  "title": "",
+  "description": "javascript curator data",
+  "homepage": "",
+  "version": "0.1.0",
+  "license": "ODC-PDDL-1.0",
+  "repository": "https://github.com/alvaropinot/javascript-curator-data"
+}

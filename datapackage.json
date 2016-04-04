@@ -1,17 +1,28 @@
 {
-  "resources": [
-    {
-      "name": "contents",
-      "path": "data/contents.json",
-      "format": "json",
-      "mediatype": "application/json"
-    }
-  ],
   "name": "javascript-curator-data",
   "title": "",
   "description": "javascript curator data",
   "homepage": "",
   "version": "0.1.0",
-  "license": "ODC-PDDL-1.0",
-  "repository": "https://github.com/alvaropinot/javascript-curator-data"
+  "license": "MIT",
+  "author": "Alvaro Pinot <alvaro@neatnait.com>",
+  "repository": "https://github.com/alvaropinot/javascript-curator-data",
+  "resources": [
+    {
+      "name": "contents",
+      "path": "data/contents.json",
+      "format": "json",
+      "mediatype": "application/json",
+      "schema": "contents-schema"
+    }
+  ],
+  "schemas": {
+    "contents-schema": {
+      "fields": [
+        {
+          "name": "name of resource"
+        }
+      ]
+    }
+  }
 }

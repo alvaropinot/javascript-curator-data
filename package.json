@@ -1,0 +1,25 @@
+{
+  "name": "javascript-curator-data",
+  "version": "0.0.1",
+  "description": "javascript curator data",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run validate",
+    "validate": "dpm validate",
+    "init": "dpm init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alvaropinot/javascript-curator-data.git"
+  },
+  "author": "Alvaro Pinot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alvaropinot/javascript-curator-data/issues"
+  },
+  "homepage": "https://github.com/alvaropinot/javascript-curator-data",
+  "devDependencies": {
+    "datapackage": "^0.7.8",
+    "datapackage-validate": "^0.2.5"
+  }
+}

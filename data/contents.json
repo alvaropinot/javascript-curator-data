@@ -1,0 +1,14 @@
+[
+  {
+    "name": "fixing broken commit messages",
+    "url": "http://gitready.com/advanced/2009/01/12/fixing-broken-commit-messages.html"
+  },
+  {
+    "name": "GitHub Standard Fork & Pull Request Workflow",
+    "url": "https://gist.github.com/Chaser324/ce0505fbed06b947d962"
+  },
+  {
+    "name": "Alias for reset and sync local repository with remote branch",
+    "url": "http://www.ocpsoft.org/tutorials/git/reset-and-sync-local-respository-with-remote-branch/#comment-10748"
+  }
+]

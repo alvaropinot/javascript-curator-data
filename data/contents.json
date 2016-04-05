@@ -13,5 +13,10 @@
     "name": "Alias for reset and sync local repository with remote branch",
     "url": "http://www.ocpsoft.org/tutorials/git/reset-and-sync-local-respository-with-remote-branch/#comment-10748",
     "tags": ["git"]
+  },
+  {
+    "name": "Commmit Style Guide",
+    "url": "http://docs.deis.io/en/latest/contributing/standards/#commit-style-guide",
+    "tags": ["git"]
   }
 ]

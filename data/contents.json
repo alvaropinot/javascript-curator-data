@@ -18,5 +18,10 @@
     "name": "Commmit Style Guide",
     "url": "http://docs.deis.io/en/latest/contributing/standards/#commit-style-guide",
     "tags": ["git"]
+  },
+  {
+    "name": "Top Node.js metrics to watch",
+    "url": "https://www.oreilly.com/ideas/top-nodejs-metrics-to-watch",
+    "tags": ["node", "javascript", "performance"]
   }
 ]

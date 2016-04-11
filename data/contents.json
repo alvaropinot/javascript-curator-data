@@ -23,5 +23,10 @@
     "name": "Top Node.js metrics to watch",
     "url": "https://www.oreilly.com/ideas/top-nodejs-metrics-to-watch",
     "tags": ["node", "javascript", "performance"]
+  },
+  {
+    "name": "How JavaScript Timers Work",
+    "url": "http://ejohn.org/blog/how-javascript-timers-work/",
+    "tags": ["javascript", "performance"]
   }
 ]

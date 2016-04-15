@@ -28,5 +28,10 @@
     "name": "How JavaScript Timers Work",
     "url": "http://ejohn.org/blog/how-javascript-timers-work/",
     "tags": ["javascript", "performance"]
+  },
+  {
+    "name": "xargs by example",
+    "url": "https://sidvind.com/wiki/Xargs_by_example",
+    "tags": ["terminal", "unix"]
   }
 ]

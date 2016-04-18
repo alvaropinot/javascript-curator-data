@@ -33,5 +33,10 @@
     "name": "xargs by example",
     "url": "https://sidvind.com/wiki/Xargs_by_example",
     "tags": ["terminal", "unix"]
+  },
+  {
+    "name": "unix special variables",
+    "url": "http://www.tutorialspoint.com/unix/unix-special-variables.htm",
+    "tags": ["terminal", "unix"]
   }
 ]

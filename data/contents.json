@@ -38,5 +38,10 @@
     "name": "unix special variables",
     "url": "http://www.tutorialspoint.com/unix/unix-special-variables.htm",
     "tags": ["terminal", "unix"]
+  },
+  {
+    "name": "javascript design patterns cheat sheet using jquery for some examples.",
+    "url": "https://github.com/nnupoor/js_designpatterns",
+    "tags": ["node", "javascript", "patterns"]
   }
 ]

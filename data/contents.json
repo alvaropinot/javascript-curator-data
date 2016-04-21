@@ -43,5 +43,10 @@
     "name": "javascript design patterns cheat sheet using jquery for some examples.",
     "url": "https://github.com/nnupoor/js_designpatterns",
     "tags": ["node", "javascript", "patterns"]
+  },
+  {
+    "name": "Profiling NodeJS applications",
+    "url": "https://medium.com/@ghaiklor/profiling-nodejs-applications-1609b77afe4e#.ezn7mb8jn",
+    "tags": ["node", "javascript", "profiling", "performance"]
   }
 ]

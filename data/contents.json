@@ -48,5 +48,10 @@
     "name": "Profiling NodeJS applications",
     "url": "https://medium.com/@ghaiklor/profiling-nodejs-applications-1609b77afe4e#.ezn7mb8jn",
     "tags": ["node", "javascript", "profiling", "performance"]
+  },
+  {
+    "name": "Phonetics algorithms written in javascript",
+    "url": "http://yomguithereal.github.io/talisman/phonetics",
+    "tags": ["node", "javascript", "phonetics", "algorithms"]
   }
 ]

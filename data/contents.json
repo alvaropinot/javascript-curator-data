@@ -58,5 +58,10 @@
     "name": "A gentle introduction to javascript test driven development",
     "url": "http://jrsinclair.com/articles/2016/gentle-introduction-to-javascript-tdd-intro/",
     "tags": ["javascript", "test", "TDD", "tutorial"]
+  },
+  {
+    "name": "npmoffline: installing npm packages from the cache",
+    "url": "https://soledadpenades.com/2015/05/31/npmoffline-installing-npm-packages-from-the-cache/",
+    "tags": ["node", "npm"]
   }
 ]

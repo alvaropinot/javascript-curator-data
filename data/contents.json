@@ -53,5 +53,10 @@
     "name": "Phonetics algorithms written in javascript",
     "url": "http://yomguithereal.github.io/talisman/phonetics",
     "tags": ["node", "javascript", "phonetics", "algorithms"]
+  },
+  {
+    "name": "A gentle introduction to javascript test driven development",
+    "url": "http://jrsinclair.com/articles/2016/gentle-introduction-to-javascript-tdd-intro/",
+    "tags": ["javascript", "test", "TDD", "tutorial"]
   }
 ]
